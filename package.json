@@ -1,0 +1,20 @@
+{
+  "name": "test-tag",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoqueiros/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoqueiros/test/issues"
+  },
+  "homepage": "https://github.com/brunoqueiros/test#readme"
+}
